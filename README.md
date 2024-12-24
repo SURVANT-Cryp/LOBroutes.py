@@ -5,11 +5,11 @@ In 2024, I developed a Python program called <i>LOBRoutes.py</i>. The program ge
 
 <b>Notes/Links:</b>
 
+https://www.theparisreview.org/blog/2015/07/23/the-library-of-babel-as-seen-from-within<br>
+
 https://en.wikipedia.org/wiki/Psychogeography<br>
 
 https://jacket2.org/commentary/avant-garde-iii-situationist-maps-take-two<br>
-
-“The open nature of asemic works allows for meaning to occur across linguistic understanding; an asemic text may be ‘read’ in a similar fashion regardless of the reader's natural language. Multiple meanings for the same symbolism are another possibility for an asemic work, that is, asemic writing can be polysemantic or have zero meaning, infinite meanings, or its meaning can evolve over time.”<br>https://en.wikipedia.org/wiki/Asemic_writing<br>
 
 “There is no combination of characters one can make—dhcmrlchtdj, for example—that the divine Library has not foreseen and that in one or more of its secret tongues does not hide a terrible significance. There is no syllable one can speak that is not filled with tenderness and terror, that is not, in one of those languages, the mighty name of a god.”<br>
 https://www.theparisreview.org/blog/2015/07/23/the-library-of-babel-as-seen-from-within<br>
