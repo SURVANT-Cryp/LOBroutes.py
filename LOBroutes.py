@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # coding: utf-8
-#“De Quincey describes using the stars to guide him home. Having no knowledge of celestial navigation he finds himself in unfamiliar territories, discovering what he believes are streets anonymous to maps, thus reimagining the city in his own eyes.” (http://www.thedoublenegative.co.uk/2014/12/an-introduction-to-psychogeography/)
+#“Like all men of the Library, I have traveled in my youth. I have journeyed in search of a book, perhaps of the catalogue of catalogues; now that my eyes can scarcely decipher what I write, I am preparing to die a few leagues from the hexagon in which I was born. Once dead, there will not lack pious hands to hurl me over the banister; my sepulchre shall be the unfathomable air: my body will sink lengthily and will corrupt and dissolve in the wind engendered by the fall, which is infinite.” 
+#“De Quincey describes using the stars to guide him home. Having no knowledge of celestial navigation he finds himself in unfamiliar territories, discovering what he believes are streets anonymous to maps, thus reimagining the city in his own eyes.” 
 
 import string
 import random
