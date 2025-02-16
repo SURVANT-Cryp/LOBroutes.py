@@ -27,7 +27,7 @@ chars = string.letters + string.digits + string.punctuation
 
 routeLength = 410
 
-slowprint('\n' + "Dear flaneur/inhabitant of the Library, interpret the following string, or parts of the string, as a pathway:" + '\n' + ''.join((random.choice(chars)) for x in range(routeLength)) + '\n')
+slowprint('\n' + "Dear flaneurial inhabitant of the Library, interpret the following string, or parts of the string, as a pathway:" + '\n' + ''.join((random.choice(chars)) for x in range(routeLength)) + '\n')
 
 urls = ['https://www.google.com/maps']
 
