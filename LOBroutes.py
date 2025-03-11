@@ -21,14 +21,14 @@ def slowprint(s):
 
 
 # Just alphanumeric characters
-chars = string.letters + string.digits
+chars = string.ascii_letters + string.digits
 
 # Alphanumeric + special characters
-chars = string.letters + string.digits + string.punctuation
+chars = string.ascii_letters + string.digits + string.punctuation
 
 routeLength = 410
 
-slowprint('\n' + "Dear flaneurial inhabitant of the Library, interpret the following string, or parts of the string, as a pathway:" + '\n' + ''.join((random.choice(chars)) for x in range(routeLength)) + '\n')
+slowprint('\n' + "Dear flaneurial inhabitant of the Library, interpret the following string, or parts of the string, as a pathway:" + '\n' + '\n' + ''.join((random.choice(chars)) for x in range(routeLength)) + '\n')
 
 urls = ['https://www.google.com/maps']
 
